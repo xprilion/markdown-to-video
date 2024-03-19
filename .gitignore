@@ -131,3 +131,4 @@ dist
 
 # Exclude recorded videos
 *.mp4
+*.webm
